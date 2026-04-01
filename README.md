@@ -4,7 +4,7 @@
 
 O **ASAAF (Agile Software Architecture Assessment Framework)** é um framework para avaliar a maturidade da arquitetura de software em projetos ágeis.
 
-<a href="https://studio.youtube.com/video/CvAEONlmiZw/edit"> Clique para ver o vídeo sobre o ASAAF </a>
+<a href="https://studio.youtube.com/video/CvAEONlmiZw"> Clique para ver o vídeo sobre o ASAAF </a>
 
 Ele combina:
 
