@@ -37,7 +37,18 @@ O ASAAF usa o conceito do **Subway Map of Software Architecture (SMoSA)**:
 
 - Cada linha = um tema arquitetural (ex: qualidade, segurança, DevOps)  
 - Cada estação = práticas, padrões ou decisões  
-- O assessment mede o quanto sua arquitetura percorre essas linhas  
+- O assessment mede o quanto sua arquitetura percorre essas linhas
+
+Avaliação considera as seguintes níveis:
+
+| Nível | Maturidade   | Descrição                                              |
+|------|-------------|--------------------------------------------------------|
+| 0    | Não se aplica | Prática inexistente ou não aplicável no contexto      |
+| 1    | Iniciante    | Implementação inicial ou ad-hoc                        |
+| 2    | Básico       | Processo definido, porém inconsistente                 |
+| 3    | Intermediário| Processo estabelecido e parcialmente consistente       |
+| 4    | Avançado     | Processo maduro, consistente e bem controlado          |
+| 5    | Excelência   | Processo otimizado, contínua melhoria e referência     |
 
 👉 Resultado: uma visão clara da maturidade da arquitetura.
 
