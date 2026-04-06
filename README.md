@@ -1,5 +1,3 @@
-# 📌 ASAAF – Visão Rápida para Arquitetos (pré-questionário)
-
 ## 🧭 O que é o ASAAF?
 
 O **ASAAF (Agile Software Architecture Assessment Framework)** é um framework para avaliar a maturidade da arquitetura de software em projetos ágeis.
