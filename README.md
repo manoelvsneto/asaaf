@@ -1,4 +1,4 @@
-## 🧭 O que é o ASAAF?
+## 🧭 O que é o CSAAF?
 
 O **CSAAF (Continuous Software Architecture Assessment Framework)** é um framework para avaliar a maturidade da arquitetura de software em projetos ágeis.
 
