@@ -66,6 +66,8 @@ Você responderá um **questionário estruturado**, baseado em:
 👉 Não existem respostas certas ou erradas  
 👉 O foco é sua percepção como arquiteto  
 
+https://forms.gle/yWL7sMzES8Z7k9br8
+
 ---
 
 ## 🧠 O que o framework NÃO é
