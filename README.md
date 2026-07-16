@@ -17,7 +17,7 @@ Ele combina:
 
 ## 🎯 Para que serve?
 
-O ASAAF permite:
+O CSAAF permite:
 
 - Identificar pontos fortes e fracos da arquitetura  
 - Avaliar o nível de maturidade arquitetural  
@@ -33,7 +33,7 @@ O ASAAF permite:
 
 ## 🚇 Como funciona (intuição simples)
 
-O ASAAF usa o conceito do **Subway Map of Software Architecture (SMoSA)**:
+O CSAAF usa o conceito do **Subway Map of Software Architecture (SMoSA)**:
 
 - Cada linha = um tema arquitetural (ex: qualidade, segurança, DevOps)  
 - Cada estação = práticas, padrões ou decisões  
