@@ -38,6 +38,8 @@ O CSAAF usa o conceito do **Subway Map of Software Architecture (SMoSA)**:
 - Cada linha = um tema arquitetural (ex: qualidade, segurança, DevOps)  
 - Cada estação = práticas, padrões ou decisões  
 - O assessment mede o quanto sua arquitetura percorre essas linhas
+- Para cada linha o arquiteto definine um peso em percentual, onde a soma dos pesos deve ser igual a 100%.
+- Para cada linha, em suas estacoes o arquiteto deve definir pesos para cada estacao. Onde a soma dos percentuais das estacoes deve ser igual a 100%.
 
 Avaliação considera as seguintes níveis:
 
